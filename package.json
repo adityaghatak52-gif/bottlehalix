@@ -1,0 +1,12 @@
+{
+  "name": "bottle-pixel-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "^4.22.0",
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
